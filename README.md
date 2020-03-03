@@ -1,1 +1,1 @@
-These are studies on objects classes inheritance
+These are studies on objects classes inheritance by Treversimedia
